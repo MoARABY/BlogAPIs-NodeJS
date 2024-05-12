@@ -22,7 +22,7 @@ app.use(morgan('common'));
 
 // requests ===================================================
 app.get("/", (req, res) => {
-    res.send("bolg api");
+    res.send("blog app apis");
 })
 app.use("/api/auth", authRoute);
 app.use("/api/user", userRoute);
