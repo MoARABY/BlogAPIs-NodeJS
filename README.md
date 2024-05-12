@@ -1,4 +1,4 @@
-# Blog APIs
+# Blog APIs - Backend
 
 This is a Node.js application that provides APIs for a blog app. It allows users to manage users, posts, categories, and file uploads.
 
